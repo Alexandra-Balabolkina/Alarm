@@ -1,0 +1,35 @@
+# Виртуальное окружение
+alarm_venv/
+
+# Компилированные файлы Python
+__pycache__/
+*.pyc
+
+# Конфигурационные файлы с секретными данными
+*.env
+config.ini
+secrets.json
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Файлы редакторов и IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы сборки и установки пакетов
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+
